@@ -1,0 +1,40 @@
+html {
+    background-color: #fcfcfc;
+    color: #571515;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.my-item {
+    color: #409eff;
+    background-color: #ecf5ff;
+    padding: 5px 12px;
+    margin-bottom: 5px;
+}
+.my-select-item {
+    color: #67c23a;
+    background-color: #f0f9eb;
+    padding: 5px 12px;
+    margin-bottom: 5px;
+}
+/*body {*/
+/*    margin: 0;*/
+/*    color: #671616;*/
+/*    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",*/
+/*    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",*/
+/*    sans-serif;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "Nunito";*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*    src: local(""),*/
+/*    url("assets/fonts/nunito-v16-latin-regular.woff2") format("woff2");*/
+/*}*/
+
+/*#app {*/
+/*    height: 100vh;*/
+/*    text-align: center;*/
+/*}*/
